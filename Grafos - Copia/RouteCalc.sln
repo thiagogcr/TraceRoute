@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteEngine", "RouteEngine\RouteEngine.csproj", "{9A53ECD7-D0FF-42F9-A451-C4C59D31BD1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui", "Gui\Gui.csproj", "{2AA28104-367B-4741-B24A-7E2B359CEADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A53ECD7-D0FF-42F9-A451-C4C59D31BD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A53ECD7-D0FF-42F9-A451-C4C59D31BD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A53ECD7-D0FF-42F9-A451-C4C59D31BD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A53ECD7-D0FF-42F9-A451-C4C59D31BD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA28104-367B-4741-B24A-7E2B359CEADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA28104-367B-4741-B24A-7E2B359CEADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA28104-367B-4741-B24A-7E2B359CEADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA28104-367B-4741-B24A-7E2B359CEADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
